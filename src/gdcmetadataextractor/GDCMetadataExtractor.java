@@ -16,12 +16,12 @@ import java.util.Collection;
 public class GDCMetadataExtractor {
 
     public static void main(String[] args) {
-        //String fileInputName = args[0];
-        //String fileOutputName = args[1];
-        //String delim = args[2]
-        String fileInputName = "sample_input/metadata_lihc.json";
-        String fileOutputName = "sample_input/metadata_lihc.csv";
-        String delim = ",";
+        String fileInputName = args[0];
+        String fileOutputName = args[1];
+        String delim = args[2];
+        //String fileInputName = "sample_input/metadata_lihc.json";
+        //String fileOutputName = "sample_input/metadata_lihc.csv";
+        //String delim = ",";
         
         try {
             //Prepare for file output writer
