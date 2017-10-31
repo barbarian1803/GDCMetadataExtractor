@@ -1,0 +1,9 @@
+[{
+  "md5sum": "1d9f816815818bc6a6dd3b121c8b44f2", 
+  "data_type": "Gene Expression Quantification", 
+  "file_name": "0b27a4e5-3e45-42e7-a965-3e7eb02c037c.htseq.counts.gz", 
+  "file_size": 257069, 
+  "data_format": "TXT",
+  "experimental_strategy": "RNA-Seq"
+}
+]

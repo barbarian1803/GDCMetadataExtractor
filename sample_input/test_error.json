@@ -1,0 +1,165 @@
+Alias;File_Name;Ethnicity;Sample_Type
+Sample_1;17466fb1-5b0f-4872-a7fb-448a1057a32e.htseq.counts.gz;not hispanic or latino;Primary Tumor
+Sample_2;07ad35fc-1e35-43b3-a252-193323d5e680.htseq.counts.gz;not reported;Primary Tumor
+Sample_3;b8e564b0-affd-4137-a10c-be4fe254a905.htseq.counts.gz;not hispanic or latino;Primary Tumor
+Sample_4;de704076-e915-4749-9729-e6ee06a0d359.htseq.counts.gz;not hispanic or latino;Primary Tumor
+Sample_5;87e0be4b-bc1a-4bc7-a744-6b960dbc0526.htseq.counts.gz;not hispanic or latino;Primary Tumor
+Sample_6;6533d5fa-8631-4e68-ba3b-2039aa8c96cb.htseq.counts.gz;not hispanic or latino;Primary Tumor
+Sample_7;8367f33b-6f1e-4fd1-b57c-dcee572553c3.htseq.counts.gz;not hispanic or latino;Primary Tumor
+Sample_8;deaa56c1-8031-4c65-b3bc-1228407e06ea.htseq.counts.gz;not hispanic or latino;Primary Tumor
+Sample_9;a49d3393-5854-4181-95d5-47d587f7009b.htseq.counts.gz;not hispanic or latino;Primary Tumor
+Sample_10;1ff9e4f4-089a-4364-9ec9-c5ecc6b8c4f6.htseq.counts.gz;hispanic or latino;Primary Tumor
+Sample_11;0cad7bff-30bd-4c4a-accf-876422f3cb6a.htseq.counts.gz;not hispanic or latino;Primary Tumor
+Sample_12;04c6e85b-a520-402d-b3e7-cc569f9565d8.htseq.counts.gz;not hispanic or latino;Primary Tumor
+Sample_13;e091bf28-5002-48ff-93df-3030c0942b3a.htseq.counts.gz;not hispanic or latino;Primary Tumor
+Sample_14;b2544700-678b-4daa-841c-bf401896da1b.htseq.counts.gz;not hispanic or latino;Primary Tumor
+Sample_15;022a665e-1ed2-4e37-a6cd-911ccdb1dfcf.htseq.counts.gz;not hispanic or latino;Primary Tumor
+Sample_16;97f034ef-f311-475c-9d91-d6b639840ea7.htseq.counts.gz;not hispanic or latino;Primary Tumor
+Sample_17;2656413d-a5d2-4812-9ce9-a02c15ab04bd.htseq.counts.gz;not hispanic or latino;Primary Tumor
+Sample_18;036e2fc1-c001-40d5-98c4-28bd121b9554.htseq.counts.gz;not hispanic or latino;Primary Tumor
+Sample_19;b033c85a-2395-4ced-a84d-ac1fbce674bf.htseq.counts.gz;not hispanic or latino;Primary Tumor
+Sample_20;c1c1111e-858a-438e-8bb6-90df4defcede.htseq.counts.gz;not hispanic or latino;Primary Tumor
+Sample_21;f4d80dc6-a28c-4d31-99e8-f58e78678654.htseq.counts.gz;not hispanic or latino;Solid Tissue Normal
+Sample_22;de2ffea0-e172-45e2-aa15-f543758deb78.htseq.counts.gz;not hispanic or latino;Primary Tumor
+Sample_23;e8ba3864-1068-4ff8-9a11-01f37ad6dc81.htseq.counts.gz;not hispanic or latino;Primary Tumor
+Sample_24;b2a6c9e3-65eb-43bd-849a-5829007379ab.htseq.counts.gz;hispanic or latino;Primary Tumor
+Sample_25;71c3f9c6-9226-4a8f-910a-3cee62dbeb3c.htseq.counts.gz;not hispanic or latino;Primary Tumor
+Sample_26;fe613719-8ab9-4a9b-9db9-dd5d473d2a1c.htseq.counts.gz;not hispanic or latino;Primary Tumor
+Sample_27;34dd2d8f-6b3c-42ec-94c6-2c3eb75e8b91.htseq.counts.gz;not hispanic or latino;Primary Tumor
+Sample_28;15ea8c4e-2ee1-4aa4-89e5-6876e4b80381.htseq.counts.gz;not hispanic or latino;Primary Tumor
+Sample_29;690796a7-a685-4fcf-a121-33261d9fdd83.htseq.counts.gz;not hispanic or latino;Primary Tumor
+Sample_30;2c6a02ee-c88a-4e23-8915-6976b95386e3.htseq.counts.gz;not hispanic or latino;Solid Tissue Normal
+Sample_31;c1efb56c-bcb2-4f9d-a291-b2c05217de2a.htseq.counts.gz;not hispanic or latino;Primary Tumor
+Sample_32;3ab61b3d-13bd-4fca-ac15-f70acbce447c.htseq.counts.gz;not hispanic or latino;Primary Tumor
+Sample_33;57cbdd69-7be9-4865-86dd-82bfb0ea803d.htseq.counts.gz;not hispanic or latino;Solid Tissue Normal
+Sample_34;20ff57b5-eeb2-4312-a5e0-11ac8c8d573a.htseq.counts.gz;not hispanic or latino;Primary Tumor
+Sample_35;6d27be54-6210-431e-b460-247587c5ab8d.htseq.counts.gz;not hispanic or latino;Primary Tumor
+Sample_36;89898350-742a-4b99-b1b0-4db42205fdba.htseq.counts.gz;not hispanic or latino;Primary Tumor
+Sample_37;a9f75c82-3489-4b20-bf60-59fe5ef83f21.htseq.counts.gz;not hispanic or latino;Primary Tumor
+Sample_38;ccdbc757-4bf2-4132-bc03-dced7d6c2c71.htseq.counts.gz;not hispanic or latino;Primary Tumor
+Sample_39;dbb50b30-9856-4a56-91e1-d31ad106fd48.htseq.counts.gz;not hispanic or latino;Primary Tumor
+Sample_40;a3b9677e-a154-41f1-857c-4cd5244b77c3.htseq.counts.gz;not hispanic or latino;Primary Tumor
+Sample_41;c758cf60-68bc-4154-9d43-44339da29889.htseq.counts.gz;not hispanic or latino;Primary Tumor
+Sample_42;73bcbb60-38af-4143-95e9-1a842cdf9c20.htseq.counts.gz;not reported;Solid Tissue Normal
+Sample_43;62a17809-7816-47cf-959d-f00e5ea0c3b4.htseq.counts.gz;not hispanic or latino;Primary Tumor
+Sample_44;9350b57b-9f7b-43c6-a42b-9ddae857af0a.htseq.counts.gz;not hispanic or latino;Primary Tumor
+Sample_45;f4a128be-6910-49c3-9f0c-b6bd702ab7ce.htseq.counts.gz;not reported;Solid Tissue Normal
+Sample_46;f31566a9-ffde-40fa-b879-71827a3540a9.htseq.counts.gz;not hispanic or latino;Solid Tissue Normal
+Sample_47;df706741-6d56-4953-8d15-ef916d73848a.htseq.counts.gz;not hispanic or latino;Primary Tumor
+Sample_48;c0055307-e827-4621-82ff-9702ae53df10.htseq.counts.gz;hispanic or latino;Primary Tumor
+Sample_49;7133f91c-4128-4578-a1cd-2c1ee81b3f16.htseq.counts.gz;not hispanic or latino;Solid Tissue Normal
+Sample_50;11f80365-b1a5-401d-840b-18e08c5052ba.htseq.counts.gz;not hispanic or latino;Primary Tumor
+Sample_51;669cf849-aa91-4d4a-b08d-7c10baf81d15.htseq.counts.gz;not hispanic or latino;Primary Tumor
+Sample_52;eb5bc3d0-9f66-413f-b6bb-72a5a6b7fde9.htseq.counts.gz;not hispanic or latino;Primary Tumor
+Sample_53;bcf137e8-156d-4609-8b1b-9a9b379aa2ce.htseq.counts.gz;not hispanic or latino;Primary Tumor
+Sample_54;79eee19f-5a9c-4e79-83ef-d6871ef4cb6f.htseq.counts.gz;not hispanic or latino;Primary Tumor
+Sample_55;bab0168d-a91c-4977-a3bc-6958a0e49473.htseq.counts.gz;not reported;Primary Tumor
+Sample_56;8691a335-a632-4529-b77f-35ab2dddae26.htseq.counts.gz;not hispanic or latino;Primary Tumor
+Sample_57;2fbb0bb8-38a2-48ef-a2d0-8fa2d01772b9.htseq.counts.gz;not hispanic or latino;Primary Tumor
+Sample_58;69e11cde-c26b-40d2-a3f5-b668ef590688.htseq.counts.gz;not hispanic or latino;Primary Tumor
+Sample_59;112c740e-8830-4ed0-99cd-eadd91276f63.htseq.counts.gz;not hispanic or latino;Primary Tumor
+Sample_60;488f53a2-92f8-4164-adc8-28b738a312fb.htseq.counts.gz;not hispanic or latino;Primary Tumor
+Sample_61;8b4fd8a6-c6a7-41b4-b052-8212f0ed2972.htseq.counts.gz;not hispanic or latino;Primary Tumor
+Sample_62;b50bf6cf-8540-4fdf-9745-973f1c546f77.htseq.counts.gz;not hispanic or latino;Primary Tumor
+Sample_63;4870a03e-aa72-4058-b347-5cb2861fa3a3.htseq.counts.gz;not hispanic or latino;Primary Tumor
+Sample_64;dc03b9a1-8313-4705-a185-c42ddf9870b7.htseq.counts.gz;not hispanic or latino;Solid Tissue Normal
+Sample_65;d229a59b-4f6c-4714-8dd5-1c714a764b22.htseq.counts.gz;not hispanic or latino;Primary Tumor
+Sample_66;698eba4b-b0f0-4923-9e43-d9707959c65f.htseq.counts.gz;not hispanic or latino;Primary Tumor
+Sample_67;5fa88a87-e100-4fc5-bc26-995ad8191c8f.htseq.counts.gz;not hispanic or latino;Primary Tumor
+Sample_68;7bda8b48-9d55-4d47-bcfc-b5b71d9db7da.htseq.counts.gz;not hispanic or latino;Primary Tumor
+Sample_69;c7e9dae6-ed90-4736-8f84-387550fb8bff.htseq.counts.gz;not hispanic or latino;Primary Tumor
+Sample_70;60396a51-81af-4e2a-8599-500eb58620c7.htseq.counts.gz;not hispanic or latino;Primary Tumor
+Sample_71;42d4f4c7-690c-4c0d-a2e8-ad3aef6f7776.htseq.counts.gz;not hispanic or latino;Primary Tumor
+Sample_72;7f2cf950-b5e1-4a01-a44b-88a4e3303233.htseq.counts.gz;not hispanic or latino;Primary Tumor
+Sample_73;00a47e69-ef6a-4be9-827d-d48609859a7e.htseq.counts.gz;not reported;Primary Tumor
+Sample_74;3840477f-a5a6-4420-8d06-18f61b313ec1.htseq.counts.gz;not reported;Primary Tumor
+Sample_75;3ec39b79-fd84-4006-b513-ea78ba8ba16c.htseq.counts.gz;not hispanic or latino;Primary Tumor
+Sample_76;6a979027-8bef-430c-bf09-67b3e8882482.htseq.counts.gz;not hispanic or latino;Primary Tumor
+Sample_77;354bc895-1cf4-41d2-bf30-c52c21369fe2.htseq.counts.gz;not hispanic or latino;Primary Tumor
+Sample_78;c510d4d9-eacd-4b95-aa07-79609c898306.htseq.counts.gz;not hispanic or latino;Primary Tumor
+Sample_79;0d38dab7-b983-4829-9a5b-d79f0fee6f26.htseq.counts.gz;not hispanic or latino;Solid Tissue Normal
+Sample_80;4aa06322-99a1-49e8-ad18-c92cb676da51.htseq.counts.gz;not hispanic or latino;Primary Tumor
+Sample_81;f50438de-b313-4b2e-97e1-302cdfb9d9d7.htseq.counts.gz;not hispanic or latino;Solid Tissue Normal
+Sample_82;987f148b-b2ba-4d97-a09a-20487b27051c.htseq.counts.gz;not hispanic or latino;Primary Tumor
+Sample_83;5d3c2256-e8ed-4145-8c2d-b221c75dc049.htseq.counts.gz;not hispanic or latino;Primary Tumor
+Sample_84;c7169e06-bce9-4524-ab91-84c24205814c.htseq.counts.gz;not hispanic or latino;Primary Tumor
+Sample_85;93c46e63-3686-4883-a9de-7606ddfc11f0.htseq.counts.gz;not hispanic or latino;Primary Tumor
+Sample_86;71de586e-9fef-4c8e-9c89-1936e9415ab3.htseq.counts.gz;not hispanic or latino;Primary Tumor
+Sample_87;27b907cb-2b29-4301-aa21-293d97d9b695.htseq.counts.gz;not hispanic or latino;Primary Tumor
+Sample_88;bd556315-a050-465f-9a41-bdebe7e3eb61.htseq.counts.gz;not hispanic or latino;Primary Tumor
+Sample_89;891fa657-fa9c-46b3-b751-e337d88e08ae.htseq.counts.gz;not hispanic or latino;Solid Tissue Normal
+Sample_90;aab22bf4-8c7f-46b5-8170-844f24a65522.htseq.counts.gz;not hispanic or latino;Primary Tumor
+Sample_91;22d5f0c9-2f95-4a72-b8c6-d98c1bce07f7.htseq.counts.gz;not hispanic or latino;Primary Tumor
+Sample_92;0d604955-ce10-4fa9-ba8b-9417c5719653.htseq.counts.gz;not hispanic or latino;Primary Tumor
+Sample_93;a60ed4b8-a041-4b38-b961-fc976b254702.htseq.counts.gz;not hispanic or latino;Primary Tumor
+Sample_94;0404b823-fd3c-47dd-9861-0f9f01a02d2e.htseq.counts.gz;not hispanic or latino;Primary Tumor
+Sample_95;2eecdef2-2e2a-450f-ad52-f053f97275a3.htseq.counts.gz;not hispanic or latino;Primary Tumor
+Sample_96;d46b61b0-6f34-48ca-8c7d-23ae4d0b1a7c.htseq.counts.gz;not hispanic or latino;Solid Tissue Normal
+Sample_97;52fe6ec2-36d3-413b-81c7-b79870d74450.htseq.counts.gz;not hispanic or latino;Primary Tumor
+Sample_98;709670f6-cbb6-49ac-bc82-982be7eff36a.htseq.counts.gz;not reported;Primary Tumor
+Sample_99;325a69a6-7312-4c08-94d5-9d76fd913376.htseq.counts.gz;not hispanic or latino;Primary Tumor
+Sample_100;ecbe1717-b6b7-4359-b723-3bfc81c82f2d.htseq.counts.gz;not hispanic or latino;Solid Tissue Normal
+Sample_101;3b2c4de1-9a4a-43ad-8723-1f634b339183.htseq.counts.gz;not hispanic or latino;Primary Tumor
+Sample_102;463f2d23-8b4d-45f5-9600-06c2920498ca.htseq.counts.gz;not hispanic or latino;Primary Tumor
+Sample_103;ec241da3-82df-46a8-8a54-b1e977ac4834.htseq.counts.gz;not hispanic or latino;Primary Tumor
+Sample_104;57e8b21e-eeb7-4f8e-a8b3-b6016bd37c96.htseq.counts.gz;not hispanic or latino;Primary Tumor
+Sample_105;b40a318f-fc61-49e5-ab41-c2e41510a12c.htseq.counts.gz;not reported;Primary Tumor
+Sample_106;e7d40080-17f9-4d2c-a5dd-33ac2fb61f31.htseq.counts.gz;not reported;Primary Tumor
+Sample_107;61af99a7-ead9-4107-9979-5a8ca85c2020.htseq.counts.gz;not hispanic or latino;Primary Tumor
+Sample_108;1fbc7c43-62b9-4f70-8f26-fbe1900e386b.htseq.counts.gz;not hispanic or latino;Primary Tumor
+Sample_109;43c99312-8f57-4a49-a030-450bafc13d2a.htseq.counts.gz;not hispanic or latino;Primary Tumor
+Sample_110;0f5282f4-e702-41f2-b93f-a1966203879f.htseq.counts.gz;not hispanic or latino;Primary Tumor
+Sample_111;6eff5754-c9e3-402d-a341-63b891dd95d9.htseq.counts.gz;not hispanic or latino;Primary Tumor
+Sample_112;2627073d-a532-4d75-9937-0a4f62df51f9.htseq.counts.gz;not hispanic or latino;Primary Tumor
+Sample_113;74b61bc0-93ff-43aa-b495-467f54415731.htseq.counts.gz;not hispanic or latino;Primary Tumor
+Sample_114;ca75ae4d-3d90-46d7-9544-fd71dd6c87b2.htseq.counts.gz;not hispanic or latino;Primary Tumor
+Sample_115;46927791-e908-49eb-8ad8-21158fc1549a.htseq.counts.gz;not hispanic or latino;Primary Tumor
+Sample_116;ce137517-0320-46dd-b4e0-82c02773ba97.htseq.counts.gz;not hispanic or latino;Primary Tumor
+Sample_117;83da7937-9e38-46f0-967a-bcfaeaea1588.htseq.counts.gz;not hispanic or latino;Primary Tumor
+Sample_118;4ce3e99a-a195-414c-a967-7d3795d48934.htseq.counts.gz;not hispanic or latino;Primary Tumor
+Sample_119;509529b1-8dbc-4abd-a037-84fa6c48575a.htseq.counts.gz;not hispanic or latino;Primary Tumor
+Sample_120;b4106436-0adf-4e37-b006-189aec892562.htseq.counts.gz;hispanic or latino;Primary Tumor
+Sample_121;95e7a64b-f228-4d19-8e57-a02adde8d01d.htseq.counts.gz;not hispanic or latino;Primary Tumor
+Sample_122;17f01a59-b1fc-4a6e-86f3-51fc2cd0398a.htseq.counts.gz;not hispanic or latino;Primary Tumor
+Sample_123;e457f8f6-fe2c-4314-a831-c9aa095d4bc7.htseq.counts.gz;not hispanic or latino;Primary Tumor
+Sample_124;381e2cf8-6fd4-4561-a881-683bfed6b1f8.htseq.counts.gz;not hispanic or latino;Primary Tumor
+Sample_125;05c907d7-e28f-4f9d-9df3-64ee7b3a8c8e.htseq.counts.gz;not hispanic or latino;Primary Tumor
+Sample_126;70089c01-2fbe-4501-bccf-747b40872d6a.htseq.counts.gz;not hispanic or latino;Primary Tumor
+Sample_127;829af93c-fd1a-4792-be16-a5b7b7221b09.htseq.counts.gz;hispanic or latino;Primary Tumor
+Sample_128;eaa01a14-f563-4076-8696-9064c9397e6a.htseq.counts.gz;not hispanic or latino;Primary Tumor
+Sample_129;d5f0ea64-6660-49ac-a37e-3cd747045147.htseq.counts.gz;not hispanic or latino;Solid Tissue Normal
+Sample_130;9348d9ac-3c90-433e-b5f4-92a7c1287bed.htseq.counts.gz;not hispanic or latino;Primary Tumor
+Sample_131;4b5014a3-d76e-485d-b8fa-6c2bbc9ba308.htseq.counts.gz;not reported;Primary Tumor
+Sample_132;4a0d9b7a-427c-4446-9fbd-ebb4b55b0469.htseq.counts.gz;not hispanic or latino;Primary Tumor
+Sample_133;4ce949d4-55e1-4e4b-a6d3-d2910ae3b448.htseq.counts.gz;not hispanic or latino;Primary Tumor
+Sample_134;d7bff2a7-1ffe-495c-b297-3b734b688267.htseq.counts.gz;not reported;Primary Tumor
+Sample_135;f12fbfdf-efd4-462a-a34c-8c01947bfb78.htseq.counts.gz;not hispanic or latino;Primary Tumor
+Sample_136;2d3e6de2-dc7c-4078-8d1c-aecac52b4a44.htseq.counts.gz;not hispanic or latino;Solid Tissue Normal
+Sample_137;88522aae-be2d-4899-b32a-c35a39c25b89.htseq.counts.gz;not hispanic or latino;Primary Tumor
+Sample_138;a1a68fe9-9635-4b7f-b9a2-34474ef8c1dc.htseq.counts.gz;not reported;Solid Tissue Normal
+Sample_139;98da76dd-0fb5-4313-a277-a122c205e843.htseq.counts.gz;not hispanic or latino;Primary Tumor
+Sample_140;34dd0e22-1014-4fe5-8392-faddf79b0ad2.htseq.counts.gz;not hispanic or latino;Primary Tumor
+Sample_141;9023df26-92cb-4dd9-8f2c-629dfaddd88b.htseq.counts.gz;not hispanic or latino;Primary Tumor
+Sample_142;25de1c24-bb1d-40a7-b62f-b54d6184426c.htseq.counts.gz;not hispanic or latino;Primary Tumor
+Sample_143;9838a921-f1fc-434a-abe3-d396e32c32b5.htseq.counts.gz;not hispanic or latino;Primary Tumor
+Sample_144;c56d7aa2-51fa-485b-94e6-39077c6b72c6.htseq.counts.gz;not hispanic or latino;Primary Tumor
+Sample_145;15f84276-f2b1-42fe-af09-229a77b9ba1a.htseq.counts.gz;not hispanic or latino;Primary Tumor
+Sample_146;ec9d9157-c6eb-4bbe-acba-c5f45678ac3e.htseq.counts.gz;not hispanic or latino;Primary Tumor
+Sample_147;ee2002e1-39a4-4d50-9d37-1beea973830e.htseq.counts.gz;not reported;Primary Tumor
+Sample_148;5270d12d-756c-40d7-8f5d-8e7ccdf24a48.htseq.counts.gz;not hispanic or latino;Primary Tumor
+Sample_149;1414d172-710a-4fb6-af82-f8b0c923b259.htseq.counts.gz;not hispanic or latino;Primary Tumor
+Sample_150;1f81c6d5-6a0b-43d8-b4e9-64ccd4d76291.htseq.counts.gz;not reported;Primary Tumor
+Sample_151;1a33a98d-2df8-4c2d-8042-5d2add5ce54c.htseq.counts.gz;hispanic or latino;Primary Tumor
+Sample_152;00587432-3004-4d4b-9dc2-8c90c81f7640.htseq.counts.gz;not hispanic or latino;Primary Tumor
+Sample_153;70151eb2-40c7-4ad1-b4ff-97e1878449fa.htseq.counts.gz;hispanic or latino;Primary Tumor
+Sample_154;071c5b23-9ae3-4bc7-8a07-ce39445c8429.htseq.counts.gz;not hispanic or latino;Solid Tissue Normal
+Sample_155;b76eefac-da30-4ee4-9670-4afc45f86b4b.htseq.counts.gz;not hispanic or latino;Primary Tumor
+Sample_156;48a95042-0ff3-41a6-a447-dc3a64d087fc.htseq.counts.gz;not hispanic or latino;Primary Tumor
+Sample_157;4dced115-7653-470d-b341-be1a447175db.htseq.counts.gz;not reported;Primary Tumor
+Sample_158;6f14823c-a53d-4546-a100-5a276ac1c4d8.htseq.counts.gz;not hispanic or latino;Primary Tumor
+Sample_159;148d950b-4202-4f3f-be15-84735cd08a48.htseq.counts.gz;not hispanic or latino;Primary Tumor
+Sample_160;ccd1ad3e-4220-41ff-b3a8-bead01b1eaf8.htseq.counts.gz;not hispanic or latino;Primary Tumor
+Sample_161;6c60605b-a647-481e-976d-f2945740faf8.htseq.counts.gz;not hispanic or latino;Primary Tumor
+Sample_162;0d6bb28b-f5d1-4847-9aa9-bd58af1a7198.htseq.counts.gz;not hispanic or latino;Primary Tumor
+Sample_163;01f17467-b7de-49d4-a9d7-00108f4de1f9.htseq.counts.gz;not hispanic or latino;Solid Tissue Normal
+Sample_164;0b27a4e5-3e45-42e7-a965-3e7eb02c037c.htseq.counts.
