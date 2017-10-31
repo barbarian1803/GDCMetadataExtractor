@@ -48,6 +48,6 @@ public class MetadataToCSVFormatter {
     
     
     public static String returnDESeqMetadataHeader(String delim){
-        return "Alias"+delim+"File_Name"+delim+"Ethnicity"+delim+"Sample_Type"+delim+"Case id";
+        return "Alias"+delim+"File_Name"+delim+"Ethnicity"+delim+"Sample_Type"+delim+"Case_id";
     }
 }
